@@ -1,0 +1,31 @@
+---
+path: 'games/pc/starcraft_hots_collectors/'
+header:
+    name: 'StarcraftHOTS'
+    description: |
+        <br>
+        <p>
+        StarCraft 2 Heart of The Swarm Collector's Edition
+        </p>
+        <br>
+        <p>
+        Nuevo y Sellado
+        </p>
+        <ul name="ItemDescription">
+            <li>Plataforma: </li>
+        <ul>
+            PC
+        </ul>
+            <li>Condici&oacute;n: Nuevo y Sellado. </li>
+            <li>Desarrollador:</li>
+            <ul>
+                Blizzard
+            </ul>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['p01','jpg']
+banner: [['banner','jpg']]
+images_gallery: ['01','02','03','04','05','06']
+photo_gallery: ['p01']

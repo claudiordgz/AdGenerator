@@ -1,0 +1,29 @@
+---
+path: 'tablet/ipad/3g/usado/'
+header:
+    name: 'Ipad32GB'
+    description: |
+        <br>
+        <p>
+        Ipad Blanco 3 3G de 32 GB
+        </p>
+        <br>
+        <p>
+        Usado con un golpe en una esquina
+        </p>
+        <ul name="ItemDescription">
+            <li>Condici&oacute;n: Usado con un golpe en una esquina (se aprecia en las fotos)</li>
+            <li>Modelo de 32 GB con 3G </li>
+            <li>Incluye Stand de Apple</li>
+            <li>Incluye Adaptador de HDMI</li>
+            <li>Incluye Funda</li>
+            <li>Tiene iOS 7</li>
+            <li>Viene en su caja y con su cargador y cables</li>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: [['banner', 'jpg']]
+images_gallery: ['01']
+photo_gallery: ['p01', 'p02', 'p03', 'p04', 'p05']

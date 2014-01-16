@@ -1,0 +1,37 @@
+---
+path: 'games/ps3/beyond/usado/'
+header:
+    name: 'BeyondTwoSouls'
+    description: |
+        <br>
+        <p>
+        Beyond Two Souls Director's Edition
+        </p>
+        <br>
+        <p>
+        El juego viene en una SteelBook.<br>
+        Libro de Edici&oacute;n de colecci&oacute;n<br>
+        30 Minutos Extra de escenas jugables.<br>
+        4 Videos de C&oacute;mo se hizo el juego.<br>
+        Soundtrack Digital.<br>
+        Avatar y Tema de PS3.
+        </p>
+        <ul name="ItemDescription">
+            <li>Plataforma: </li>
+        <ul>
+            Playstation 3
+        </ul>
+            <li>Condici&oacute;n: Usado en Perfectas Condiciones. </li>
+            <li>Clasificaci&oacute;n:</li>
+            <li>Desarrollador:</li>
+            <ul>
+                Quantic Dream
+            </ul>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: [['banner', 'jpg']]
+images_gallery: ['01','02','03','04','05','06']
+photo_gallery: ['p01']

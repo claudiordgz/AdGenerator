@@ -1,0 +1,25 @@
+---
+path: 'games/ps4/battlefield4/usado/'
+header:
+    name: 'Battlefield4'
+    description: |
+        <p>
+        <br>
+        El juego es usado en condiciones de &rdquo;C&oacute;mo nuevo&rdquo;. Los c&oacute;digos
+        de DLC no se han utilizado.
+        <br>
+        </p>
+        <ul name="ItemDescription">
+            <li>Plataforma: </li>
+        <ul>
+            Playstation 4
+        </ul>
+            <li>Categor&iacute;a: Shooter 1era Persona </li>
+            <li>Trae DLC de China Rising</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: [['banner', 'jpg']]
+images_gallery: ['01','02','04','05']
+photo_gallery: []

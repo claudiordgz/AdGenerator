@@ -1,0 +1,33 @@
+---
+path: 'tablet/asus/memopad/me301t/usado/'
+header:
+    name: 'AsusMemopadME301t'
+    description: |
+        <p>
+        <br>
+        La Asus Memo Pad tiene una pantalla de 10.1&rdquo; (como la del iPad),
+        trae un procesador Tegra 3 Quad Core para tus necesidades de
+        videojuegos. Trae instalado Android JellyBean 4.2.
+        <br>
+        El Producto es usado en excelentes condiciones. No fue utilizado fuera
+        de su funda y viene con su caja y cargador. Tiene un tiempo de uso de
+        aproximadamente 6 meses.
+        </p>
+        <ul name="ItemDescription">
+            <li>Pantalla: </li>
+        <ul>
+            10.1&rdquo; IPS Panel--Ultra-bright 170&deg; Viewing Angle
+        </ul>
+            <li>Tecnolog&iacute;a Sonicmaster. </li>
+            <li>Salida micro HDMI 1.4a para que puedas ver videos en 1080p (720p si es espejo de tu pantalla). </li>
+            <li>Bocinas Est&eacute;reo</li>
+            <li>C&aacute;mara de 5 Megap&iacute;xeles y frontal de 1.2MP</li>
+            <li>Disco duro de 16Gb con entrada para una memoria microSD</li>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: [['03', 'jpg']]
+images_gallery: ['01','02','04','05','06','07']
+photo_gallery: ['p01','p02','p03','p04','p05','p06','p07','p08']

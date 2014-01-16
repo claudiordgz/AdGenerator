@@ -1,0 +1,26 @@
+---
+path: 'tablet/surfaceRT/'
+header:
+    name: 'SurfaceRT'
+    description: |
+        <br>
+        <p>
+        Surface RT 32 GB
+        </p>
+        <br>
+        <p>
+        Usado en Excelentes Condiciones. 
+        </p>
+        <ul name="ItemDescription">
+            <li>Condici&oacute;n: Usado en Excelentes Condiciones </li>
+            <li>Modelo de 32 GB</li>
+            <li>Incluye Teclado</li>
+            <li>Viene en su caja y con su cargador</li>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: [['banner', 'jpg']]
+images_gallery: ['01','02','03']
+photo_gallery: ['p01', 'p02', 'p03']

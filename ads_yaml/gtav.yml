@@ -1,0 +1,28 @@
+---
+path: 'games/ps3/gtav/'
+header:
+    name: 'GTA V'
+    description: |
+        <ul name="ItemDescription">
+            <li>Plataforma: </li>
+        <ul>
+            Playstation 3
+        </ul>
+            <li>Categor&iacute;a: Mundo Abierto. </li>
+            <li>Condici&oacute;n: Nuevo y Sellado. </li>
+            <li>Clasificaci&oacute;n:</li>
+            <ul>
+                <li><img class="smallest" src="http://www.claudiordgz.com/Fractal/images/M_ESRB.png" width="200"></li>
+            </ul>
+            <li>Desarrollador:</li>
+            <ul>
+                Rockstar Games
+            </ul>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: [['banner', 'jpg']]
+images_gallery: ['01','02','03','04','05']
+photo_gallery: []

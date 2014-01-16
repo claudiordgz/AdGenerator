@@ -1,0 +1,28 @@
+---
+path: 'cellphones/xperia_l_c2104/usado/'
+header:
+    name: 'XperiaL'
+    description: |
+        <br>
+        <p>
+        Xperia L C2104 MOVISTAR
+        </p>
+        <br>
+        <p>
+        Usado en Excelentes Condiciones. Proviene de casa de no fumadores.
+        </p>
+        <ul name="ItemDescription">
+            <li>Condici&oacute;n: Usado en Excelentes Condiciones </li>
+            <li>Modelo C2104</li>
+            <li>Fabricante:</li>
+            <ul>
+                Sony
+            </ul>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: 
+images_gallery: ['01','02','03']
+photo_gallery: ['p01', 'p02', 'p03']

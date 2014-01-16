@@ -1,0 +1,63 @@
+GUI:
+    - Guarda o agrega modelos del usuario
+    - Guarda configuraciones de FTP, Dropbox o similares
+
+VistaModelo:
+    ModelStoreAgent:
+        Utiliza:
+            Información recibida del GUI
+        Acciones:
+            Guardar los modelos del usuario en la base de datos
+            Leer los modelos del usuario en la base de datos
+    CommunicationsAgent:
+        Utiliza: 
+            Lee los modelos de configuración del usuario para FTP, Dropbox o similares
+            PushPullService:
+                Utiliza:
+                    Información del usuario en base de datos
+                Acciones:
+                    Guarda Información  del usuario en la base de datos
+        Acciones:
+            Empuja imágenes del anuncio hacia
+
+Modelos:
+    - Configuración individual del anuncio
+    - Configuración individual de la estructura del anuncio
+    - Base de Datos que hacen pares de configuración de estructura del anuncio junto con configuración del anuncio
+    
+    BuilderManager:
+        Utiliza:
+            UserConfigHandler:
+                Utiliza:
+                    Objetos UserConfig (YAML or Database)
+                Acciones:
+                    Lectura de los documentos o configuraciones del usuario
+                    relacionadas a los productos (manejo de base datos)
+                ProveeAcceso:
+                    ListaDeImágenes
+                    ListaDeFotografías
+                    DescripciónDelProducto
+                    PathDondeGuardarElProducto
+                    BannerDelProducto
+                    HeaderImageProducto
+                    
+            HTMLBuilderAgent:
+                Utiliza:
+                    Objetos de configuración de HTML
+                Acciones:
+                    Construir el código html utilizando el skeleton del cliente
+                Provee Skeletons:
+                    Imágen
+                    Lista de objetos css
+                    Lista para crear políticas
+                    Logo del producto
+                    Contenedores estándar para:
+                        Galerías
+                        Políticas
+                        Banner
+                        Logo
+                        Contenedor 
+                        Header
+                        Footer
+    Acciones:
+        Ensambla y entrega un html para cada anuncio    

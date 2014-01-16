@@ -1,0 +1,35 @@
+---
+path: 'games/ps3/bioshock_infinite/ultimate_songbird/usado/'
+header:
+    name: 'BioshockInfinite'
+    description: |
+        <br>
+        Este paquete incluye la el juego Bioshock Infinite 
+        Ultimate Songbird Edition completo. Los DLC no se han
+        utilizado. Incluye la Gu&iacute;a Edici&oacute;n Especial
+        junto con la llave de la Bird Cage. As&iacute; como una 
+        tarjeta de juego de cartas exclusiva.
+        <br>
+        <ul name="ItemDescription">
+            <li>Plataforma: </li>
+        <ul>
+            Playstation 3
+        </ul>
+            <li>Categor&iacute;a: Shooter. </li>
+            <li>Condici&oacute;n: Usado en Perfectas Condiciones. </li>
+            <li>Clasificaci&oacute;n:</li>
+            <ul>
+                <li><img class="smallest" src="http://www.claudiordgz.com/Fractal/images/M_ESRB.png" width="200"></li>
+            </ul>
+            <li>Desarrollador:</li>
+            <ul>
+                Irrational Games
+            </ul>
+            <li>ACLARA TODAS TUS DUDAS EN LA ZONA DE PREGUNTAS</li>
+        </ul>
+
+format: ['jpg']
+headerimg: ['00','jpg']
+banner: [['banner', 'jpg']]
+images_gallery: ['02','03','04','05','06','07','08','09']
+photo_gallery: ['p09','p08','p01','p02','p03','p04','p05','p06','p07','p0 (1)','p0 (2)','p0 (3)','p0 (4)','p0 (5)','p0 (6)','p0 (7)',]
