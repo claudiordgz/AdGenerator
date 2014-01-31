@@ -126,7 +126,7 @@ def get_configuration(path, filename):
 
 def main():
     """ DOCSTRING """
-    config = get_configuration('', 'main_configuration.yml')
+    config = get_configuration('', 'default_configuration.yml')
     ad_name, photo_size = ad_and_photo()
     ad = ad_configuration(config['ad_path'], ad_name)
     html_url = config['user_server_url']

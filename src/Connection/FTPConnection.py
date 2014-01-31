@@ -24,13 +24,8 @@ class FTPConnection(IConnectionType.IConnectionType):
                "Host: {host} | " \
                "Protocol: {port}".format(user=self.username, host=self.host, port=self.port)
 def main():
-    ftp_conn = FTPConnection()
-    ftp_conn.host = "claudiordgz.com"
-    ftp_conn.port = 21
-    ftp_conn.username = "fractal@claudiordgz.com"
-    ftp_conn.password = "ClaudioTrabajaDuro07"
-    print(ftp_conn)
-    ftp_conn.connect()
+    pass
+
 
 if __name__ == '__main__':
     main()

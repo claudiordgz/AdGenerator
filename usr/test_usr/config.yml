@@ -1,0 +1,10 @@
+#--------------------------------------------------------------------------------------
+# Main Configuration File for Ad Generator
+#
+#--------------------------------------------------------------------------------------
+ad_path: '../ads_yaml'
+user_server_url: 'http://www.claudiordgz.com/Fractal/images/'
+output_path: '../ads_output'
+skeleton_path: '../ads_yaml'
+skeleton_file: 'main.yml'
+config_path: '../ads_yaml/config'
