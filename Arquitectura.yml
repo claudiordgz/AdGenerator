@@ -1,3 +1,39 @@
+Paquetes
+
+Modelo
+    App Configuration Model
+        default css objects
+        default html code
+    Example User
+        ExampleAds
+    default examples
+    User Configuration Model
+        AdListModel
+        IndividualAdModel
+            ServerPath (for image storing)
+            header
+                Name
+                Description
+            default_format (for images)
+                headerimg if applicable 
+                banner if applicable
+                image_gallery
+                photo_gallery
+        HTML Skeleton Model      
+        CSS Objects Model
+        
+
+Vista
+Vista Modelo
+
+Controlador Modelo
+    UserConfigHandler
+Controlador 
+    BuilderManager
+    HtmlBuilderAgent
+
+--------------------------------------------------
+
 GUI:
     - Guarda o agrega modelos del usuario
     - Guarda configuraciones de FTP, Dropbox o similares
@@ -21,9 +57,10 @@ VistaModelo:
             Empuja imágenes del anuncio hacia
 
 Modelos:
-    - Configuración individual del anuncio
-    - Configuración individual de la estructura del anuncio
-    - Base de Datos que hacen pares de configuración de estructura del anuncio junto con configuración del anuncio
+    Configuración individual del usuario que contiene:
+        - Configuración individual del anuncio
+        - Configuración individual de la estructura del anuncio
+        - Base de Datos que hacen pares de configuración de estructura del anuncio junto con configuración del anuncio
     
     BuilderManager:
         Utiliza:
@@ -59,5 +96,5 @@ Modelos:
                         Contenedor 
                         Header
                         Footer
-    Acciones:
-        Ensambla y entrega un html para cada anuncio    
+        Acciones:
+            Ensambla y entrega un html para cada anuncio    

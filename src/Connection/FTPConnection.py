@@ -23,9 +23,4 @@ class FTPConnection(IConnectionType.IConnectionType):
                "Username: {user} | " \
                "Host: {host} | " \
                "Protocol: {port}".format(user=self.username, host=self.host, port=self.port)
-def main():
-    pass
 
-
-if __name__ == '__main__':
-    main()

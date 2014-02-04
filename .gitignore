@@ -1,2 +1,4 @@
 /ads_output/*.html
 /usr/test_usr/ads/*.yml
+/src/Connection/PasswordTesting_donotcommit.py
+/usr/test_usr/communications.yml
