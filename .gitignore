@@ -2,3 +2,6 @@
 /usr/test_usr/ads/*.yml
 /src/Connection/PasswordTesting_donotcommit.py
 /usr/test_usr/communications.yml
+res
+documentation
+/src/Connection/*.pyc
